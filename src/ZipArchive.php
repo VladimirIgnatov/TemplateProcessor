@@ -17,7 +17,7 @@
 
 namespace libraryTemplate;
 
-use ContractConstructor\Model\TemplateProcessor;
+use libraryTemplate\TemplateProcessor;
 
 /**
  * ZipArchive wrapper
