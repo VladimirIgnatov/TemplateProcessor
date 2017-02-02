@@ -1,6 +1,7 @@
 {
     "name": "qbf/template-processor",
-
+    "version": "0.0.1",
+    
     "autoload": {
         "psr-4": {
             "ContractConstructor\\": "module/ContractConstructor/src/"
