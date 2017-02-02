@@ -15,9 +15,9 @@
  * @license     http://www.gnu.org/licenses/lgpl.txt LGPL version 3
  */
 
-namespace libraryTemplate;
+namespace TemplateProcessor;
 
-use libraryTemplate\ZipArchive;
+use TemplateProcessor\ZipArchive;
 
 
 class TemplateProcessor
