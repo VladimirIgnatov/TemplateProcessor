@@ -1,0 +1,24 @@
+{
+    "name": "qbf/TemplateProcessor",
+
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "^2.2",
+        "zendframework/zftool": "^0.1.0",
+        "zendframework/zend-developer-tools": "^0.0.2",
+        "doctrine/doctrine-orm-module": "*",
+        "doctrine/migrations": "^1.1",
+        "phpoffice/phpexcel": "^1.8",
+        "php-unoconv/php-unoconv": "~0.2",
+        "lox/xhprof": "dev-master",
+        "lightsaml/lightsaml": "^1.1"
+    },
+    "autoload": {
+        "psr-0":{
+            "Core" : "./library"
+        },
+        "psr-4": {
+            "ContractConstructor\\": "module/ContractConstructor/src/"
+        }
+    }
+}
