@@ -17,7 +17,7 @@
 
 namespace libraryTemplate;
 
-use ContractConstructor\Model\ZipArchive;
+use libraryTemplate\ZipArchive;
 
 
 class TemplateProcessor
