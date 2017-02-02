@@ -1,9 +1,9 @@
 {
-    "name": "qbf/library-template",
+    "name": "lib/template-processor",
     
     "autoload": {
          "psr-0": {
-             "libraryTemplate": "src/"
+             "TemplateProcessor": "src/"
          }
      }
 }
