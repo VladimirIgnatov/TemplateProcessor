@@ -1,5 +1,5 @@
 {
-    "name": "qbf/TemplateProcessor",
+    "name": "qbf/template-processor",
 
     "autoload": {
         "psr-4": {
