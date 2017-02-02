@@ -1,9 +1,0 @@
-{
-    "name": "qbf/library-template",
-    
-    "autoload": {
-         "psr-0": {
-             "libraryTemplate": "src/"
-         }
-     }
-}
